@@ -1,0 +1,16 @@
+{
+    "name": "dreamcodexyz/newpackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Do Tu",
+            "email": "tdng91@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Dreamcode\\Newpackage\\": "src/"
+    	}
+    }
+}
